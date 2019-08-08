@@ -6,6 +6,10 @@ log-pilot
 
 `log-pilot` is an awesome docker log tool. With `log-pilot` you can collect logs from docker hosts and send them to your centralized log system such as elasticsearch, graylog2, awsog and etc. `log-pilot` can collect not only docker stdout but also log file that inside docker containers.
 
+Update
+======
+fix bug when update filebeats,now it is support filebeat 7.2.0 version
+
 Try it
 ======
 
