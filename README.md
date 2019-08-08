@@ -10,6 +10,10 @@ Update
 ======
 fix bug when update filebeats,now it is support filebeat 7.2.0 version
 
+```
+docker push echisan/log-pilot:latest
+```
+
 Try it
 ======
 
